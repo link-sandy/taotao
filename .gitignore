@@ -1,10 +1,5 @@
-/day01/target/**
+/target/
 .classpath
 .project
 .settings
 
-*/.git/*
-.deloyables
-.git
-.svn
-_svn
